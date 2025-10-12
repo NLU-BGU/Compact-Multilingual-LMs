@@ -1,0 +1,31 @@
+# Core Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# Transformers and NLP
+transformers>=4.35.0
+tokenizers>=0.15.0
+sentencepiece>=0.1.99
+
+# Data Processing
+datasets>=2.14.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Evaluation
+evaluate>=0.4.0
+scikit-learn>=1.3.0
+
+# Model Serialization
+safetensors>=0.4.0
+
+# Progress and Logging
+tqdm>=4.65.0
+
+# Utilities
+openpyxl>=3.1.0
+argparse
+
+accelerate>=0.24.0
+
