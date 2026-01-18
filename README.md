@@ -6,7 +6,7 @@ This repository contains code for pretraining and evaluating language models on 
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Models](#models)
@@ -21,7 +21,7 @@ This repository contains code for pretraining and evaluating language models on 
 
 ---
 
-## 🔍 Overview
+## Overview
 
 This research investigates whether language models trained on child-directed speech can develop linguistic competence efficiently in bilingual (English-French) scenarios. We implement and compare three model architectures:
 
@@ -38,7 +38,7 @@ This research investigates whether language models trained on child-directed spe
 
 ---
 
-## 🤖 Models
+## Models
 
 ### BabyBERTa
 - **Architecture**: RoBERTa-based masked language model
@@ -60,7 +60,7 @@ This research investigates whether language models trained on child-directed spe
 
 ---
 
-## 💻 Installation
+## Installation
 
 ### Prerequisites
 
@@ -110,7 +110,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Research/
@@ -144,7 +144,7 @@ Research/
 
 ---
 
-## 🚀 Usage
+## Usage
 
 ### 1. Pretraining
 
@@ -381,7 +381,7 @@ python src/evaluation/evaluate_grammar.py \
 
 ---
 
-## 📊 Datasets
+## Datasets
 
 ### Pretraining Data
 
@@ -463,7 +463,7 @@ False	Dogs likes to run.
 
 ---
 
-## 🔧 Configuration
+## Configuration
 
 ### Modifying Training Parameters
 
@@ -494,7 +494,7 @@ Modify SLURM parameters in shell scripts:
 
 ---
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -516,7 +516,7 @@ Modify SLURM parameters in shell scripts:
 
 ---
 
-## 📚 Citation
+## Citation
 
 If you use this code in your research, please cite:
 
