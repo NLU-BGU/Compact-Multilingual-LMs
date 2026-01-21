@@ -518,18 +518,6 @@ Modify SLURM parameters in shell scripts:
 
 ## Citation
 
-If you use this code in your research, please cite:
-
-```bibtex
-@mastersthesis{binyamin2025learning,
-  title={Learning from Child-Directed Speech in Multilingual Scenarios: A French-English Case Study},
-  author={Binyamin, Liel},
-  year={2025},
-  school={Ben-Gurion University of the Negev},
-  type={Master's thesis}
-}
-```
-
 ### Related Work
 
 **BabyBERTa:**
