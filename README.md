@@ -36,6 +36,12 @@ This research investigates whether language models trained on child-directed spe
 3. Does bilingual pretraining improve cross-lingual transfer?
 4. What linguistic phenomena do models learn from CDS?
 
+**Data Availability**  
+All datasets used in this study (pretraining, fine-tuning, and evaluation) are available for research purposes at:  
+[Dataset download link](https://drive.google.com/drive/folders/18ir9Kz6v4EWTTH2nfA9WDEzuB3Ilm9-l)
+
+
+
 ---
 
 ## Models
@@ -552,17 +558,17 @@ Modify SLURM parameters in shell scripts:
 
 ---
 
-## 👥 Contact
+## Contact
 
-- **Author**: Liel Binyamin
-- **Advisor**: Dr. Elior Sulem
+## Contact
+
+- **Author**: Liel Binyamin  
+  [lielbin@post.bgu.ac.il](mailto:lielbin@post.bgu.ac.il)
+
+- **Advisor**: Dr. Elior Sulem  
+  [eliorsu@bgu.ac.il](mailto:eliorsu@bgu.ac.il)
+
 - **Institution**: Ben-Gurion University of the Negev
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 
