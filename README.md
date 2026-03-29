@@ -524,6 +524,19 @@ Modify SLURM parameters in shell scripts:
 
 ## Citation
 
+### This Paper
+
+```bibtex
+@misc{binyamin2026learningchilddirectedspeechtwolanguage,
+  title={Learning from Child-Directed Speech in Two-Language Scenarios: A French-English Case Study}, 
+  author={Binyamin, Liel and Sulem, Elior},
+  year={2026},
+  eprint={2603.12906},
+  archivePrefix={arXiv},
+  primaryClass={cs.CL},
+  url={https://arxiv.org/abs/2603.12906}
+}
+```
 ### Related Work
 
 **BabyBERTa:**
