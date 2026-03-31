@@ -527,14 +527,23 @@ Modify SLURM parameters in shell scripts:
 ### This Paper
 
 ```bibtex
-@misc{binyamin2026learningchilddirectedspeechtwolanguage,
-  title={Learning from Child-Directed Speech in Two-Language Scenarios: A French-English Case Study}, 
-  author={Binyamin, Liel and Sulem, Elior},
-  year={2026},
-  eprint={2603.12906},
-  archivePrefix={arXiv},
-  primaryClass={cs.CL},
-  url={https://arxiv.org/abs/2603.12906}
+@inproceedings{binyamin-sulem-2026-learning,
+    title = "Learning from Child-directed Speech in Two-language Scenarios: A {F}rench-{E}nglish Case-Study",
+    author = "Binyamin, Liel  and
+      Sulem, Elior",
+    editor = "Demberg, Vera  and
+      Inui, Kentaro  and
+      Marquez, Llu{\'i}s",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {EACL} 2026",
+    month = mar,
+    year = "2026",
+    address = "Rabat, Morocco",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.findings-eacl.337/",
+    doi = "10.18653/v1/2026.findings-eacl.337",
+    pages = "6412--6426",
+    ISBN = "979-8-89176-386-9",
+    abstract = "Research on developmentally plausible language models has so far centered on English, leaving open questions about multilingual settings. We present a systematic study of compact models by extending BabyBERTa to English{--}French scenarios under strictly size-matched data conditions, addressing \textit{}monolingual, \textit{}bilingual, and \textit{}cross-lingual settings. Our design contrasts two corpus types: (i) child-directed speech ($\approx$2.5M tokens), following BabyBERTa and related work, and (ii) multi-domain corpora ($\approx$10M tokens), extending the BabyLM framework to French. To support fair evaluation, we also introduce new resources: French versions of QAMR and QASRL, and an English and French multi-domain corpus.We evaluate the models on both syntactic and semantic tasks, comparing with Wikipedia-only training. Results reveal context-dependent effects: training on Wikipedia consistently favors semantic tasks, while child-directed speech improves grammatical judgments in monolingual settings. Bilingual pretraining yields notable gains for textual entailment, disproportionately benefiting French. Importantly, the same relative patterns are observed across BabyBERTa, RoBERTa, and LTG-BERT, indicating consistent trends across the tested architectures."
 }
 ```
 ### Related Work
