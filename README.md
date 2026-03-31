@@ -36,10 +36,12 @@ This research investigates whether language models trained on child-directed spe
 3. Does bilingual pretraining improve cross-lingual transfer?
 4. What linguistic phenomena do models learn from CDS?
 
-**Data Availability**  
-All datasets used in this study (pretraining, fine-tuning, and evaluation) are available for research purposes at:  
-[Dataset download link](https://drive.google.com/drive/folders/18ir9Kz6v4EWTTH2nfA9WDEzuB3Ilm9-l)
+## Dataset Access
 
+All datasets used in this study (pretraining, fine-tuning, and evaluation) are available for research purposes.
+
+🔗 **Google Drive:**  
+https://drive.google.com/drive/folders/18ir9Kz6v4EWTTH2nfA9WDEzuB3Ilm9-l
 
 
 ---
